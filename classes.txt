@@ -1,15 +1,15 @@
-1 01.bak
-2 02.black
-3 03.blackpearl
-4 04.gold
-5 05.redrose
-6 06.sunrose
-7 07.xiangyu
-8 08.chixiazhu
-9 09.honogti
-10 10.meirenzhi
-11 11.redball
-12 12.crystal
-13 13.karen
-14 14.moldova
-15 15.yongyou
+1 01.bak 比昂扣
+2 02.black 夏黑
+3 03.blackpearl 黑珍珠
+4 04.gold 金手指
+5 05.redrose 红提
+6 06.sunrose 阳光玫瑰
+7 07.xiangyu 香玉
+8 08.chixiazhu 赤霞珠
+9 09.honogti 红提
+10 10.meirenzhi 美人指
+11 11.redball 红地球
+12 12.crystal 水晶葡萄
+13 13.karen 克伦生
+14 14.moldova 摩尔多瓦
+15 15.yongyou 甬优一号
